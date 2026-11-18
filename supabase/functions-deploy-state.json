@@ -1,0 +1,17 @@
+{
+  "projectId": "69566983",
+  "functions": {
+    "admin-reset-password": {
+      "hasChanged": false,
+      "hash": "518c7f533ac24145f947ba0acac2a791620c27c24cc3d75a6c9c8acb7181856d"
+    },
+    "signup": {
+      "hasChanged": false,
+      "hash": "792784f54cca8caacc5fc6329a5c6fdef3d78781a18fda879c9dcbb6734d8b2d"
+    },
+    "vip-income-cron": {
+      "hasChanged": false,
+      "hash": "993242f65195d40f088d8b69de4bf8fa758fc67c92f4ecdc0c901a7996365fc5"
+    }
+  }
+}
